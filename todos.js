@@ -1,41 +1,41 @@
 const todos = [
   {
-    text: 'Christmas shopping',
-    complete: false,
+    text: 'Time with Jesus',
+    complete: true,
     priority: 1,
     id: 0,
   },
 
   {
-    text: `make doctor's appointment`,
+    text: `gym`,
     complete: true,
     priority: 2,
     id: 1,
   },
 
   {
-    text: 'binge watch The Office',
+    text: 'Look at Knicks highlights',
     complete: false,
     priority: 2,
     id: 2,
   },
 
   {
-    text: 'research dinosaurs',
+    text: 'Watch Falcon and the Winter Soldier',
     complete: false,
     priority: 1,
     id: 3,
   },
 
   {
-    text: 'fire Alex',
+    text: 'finish homework assignment',
     complete: true,
     priority: 2,
     id: 4,
   },
 
   {
-    text: 'start novel',
+    text: 'study Spanish',
     complete: true,
     priority: 1,
     id: 5,
